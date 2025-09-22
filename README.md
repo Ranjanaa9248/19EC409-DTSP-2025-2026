@@ -133,7 +133,7 @@ plot_spec(estimated_noise, sr, "Spectrogram of Extracted Noise")
 <img width="1012" height="393" alt="image" src="https://github.com/user-attachments/assets/b6669a16-0b8b-4e0d-bcaf-cf98965fc048" />
 <img width="958" height="470" alt="image" src="https://github.com/user-attachments/assets/05e568fc-07b2-4cd9-904c-9bac663d3c97" />
 <img width="958" height="470" alt="image" src="https://github.com/user-attachments/assets/6c83d31e-6a3d-4a0d-b9d0-8ff08465e6c1" />
-<img width="958" height="470" alt="image" src="https://github.com/user-attachments/assets/92141e93-2b7e-42dd-b045-64d313848b38" />
+<img width="958" height="470" alt="image" src="https://github.com/user-attachments/assets/92141e93-2b7e-42dd-b045-64d313848b38" />.
 
 
 # RESULT :
